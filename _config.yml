@@ -38,13 +38,13 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: Computer Programming
 
 # feedback_email: tomjoht@gmail.com
 feedback_email: ohama100@naver.com
 # used as a contact email for the Feedback link in the top navigation bar
 
-# feedback_disable: true
+feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
 # feedback_text: "Need help?"
