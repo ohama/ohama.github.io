@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
+  product: Computer Programming
+  version: 1.0
   folders:
 
   - title:
@@ -19,9 +19,14 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: Computer Programming
     output: web, pdf
     folderitems:
+
+    - title: Overview
+      url: /index.html
+      output: web, pdf
+      type: homepage
 
     - title: Get started
       url: /index.html
@@ -44,9 +49,13 @@ entries:
       url: /mydoc_support.html
       output: web, pdf
 
-  - title: Release Notes
+  - title: Functional Programming
     output: web, pdf
     folderitems:
+
+    - title: Release Notes
+      url: /mydoc_release_notes_60.html
+      output: web, pdf
 
     - title: 6.0 Release notes
       url: /mydoc_release_notes_60.html
@@ -56,9 +65,13 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: Installation
+  - title: F#
     output: web, pdf
     folderitems:
+
+    - title: Installation
+      url: /mydoc_about_ruby_gems_etc.html
+      output: web, pdf
 
     - title: About Ruby, Gems, Bundler, etc.
       url: /mydoc_about_ruby_gems_etc.html
@@ -72,10 +85,15 @@ entries:
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-  - title: Authoring
+  - title: Ocaml
     output: web, pdf
 
     folderitems:
+
+    - title: Authoring
+      url: /mydoc_pages.html
+      output: web, pdf
+
     - title: Pages
       url: /mydoc_pages.html
       output: web, pdf
