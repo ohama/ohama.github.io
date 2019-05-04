@@ -7,3 +7,8 @@ draft: true
 # Hello World
 
 Hello world!
+
+```fsharp
+let square n = n * n
+do printfn "square: %A" (square 7)
+```

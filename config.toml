@@ -1,4 +1,7 @@
 baseURL = "https://ohama.github.io/"
 languageCode = "en-us"
-title = "Ohama's home"
+title = "Ohama"
 theme = "hyde-hyde"
+pygmentsCodefences = true
+pygmentsStyle = "pygments"
+
