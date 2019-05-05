@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emoji on My blog</title>
+    <link>https://ohama.github.io/en/tags/emoji/</link>
+    <description>Recent content in emoji on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2016 Copyright my blog</copyright>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ohama.github.io/en/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://ohama.github.io/en/2019/03/05/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://ohama.github.io/en/2019/03/05/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
