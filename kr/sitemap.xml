@@ -3,23 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ohama.github.io/kr/2019/03/11/fsharptest/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ohama.github.io/en/2019/03/11/fsharptest/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://ohama.github.io/kr/2019/03/11/fsharptest/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ohama.github.io/kr/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -30,22 +14,6 @@
                 rel="alternate"
                 hreflang="kr"
                 href="https://ohama.github.io/kr/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ohama.github.io/kr/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ohama.github.io/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://ohama.github.io/kr/post/"
                 />
   </url>
   
